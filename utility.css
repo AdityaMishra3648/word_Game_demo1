@@ -1,0 +1,11 @@
+.text-center{
+    text-align: center;
+}
+.button-effect:hover {
+    cursor: pointer;
+  }
+
+
+.button-effect:active {
+    transform: scale(0.95);
+}
